@@ -1,0 +1,13 @@
+
+/.vs
+
+/[Dd]ebug
+/[Rr]elease
+/x86
+/x64
+
+*.user
+*.sdf
+*.exe
+*.pdb
+*.ilk
